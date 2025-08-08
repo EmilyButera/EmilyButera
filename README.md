@@ -2,7 +2,7 @@ Hi! 👋
 ---
 I'm Emily, a highschool student at the Alabama School of Cyber Technology and Engineering
 
-- 🌌 I’m interested in pursueing a career in Cyber Security and Computer Engineering
+- 🌌 I’m interested in pursuing a career in Cyber Security and Computer Engineering
 - 🛰️ I’m currently learning C++, PHP, Ruby and Perl
 - 🚀 Currently working on something cool
 - 🪐 Highschool class of 2027
